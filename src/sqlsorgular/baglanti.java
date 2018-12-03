@@ -29,7 +29,7 @@ public class baglanti {
     private String dbname = "cafe1";
     private String giriskodu = "?useUnicode=true&characterEncoding=UTF-8";
     private String username = "root";
-    private String password = "Ozkancinar";
+    private String password = "";
 
     public baglanti() {
         File f = new File("dosya.txt");
